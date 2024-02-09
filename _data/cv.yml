@@ -100,7 +100,7 @@
 #   type: nested_list
 #   contents:
 #     - title: Reviewer.
-#       items: 
+#       items:
 #         - TMM, WWW 2023, CVPR 2024, ICML 2024.
 
 - title: Other Interests
