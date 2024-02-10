@@ -17,13 +17,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 visitors: true
 social: false # includes social icons at the bottom of the page
 ---
-<p style="font-family: Arial, sans-serif; font-size: 18px">I'm a master student in <a href="https://cse.seu.edu.cn/" style="font-weight: bold;">computer science at Southeast University</a>. 
+<p style="font-family: Arial, sans-serif; font-size: 18px">I'm a master student in <a href="https://cse.seu.edu.cn/" style="font-weight: bold;">computer science at Southeast University</a>.
 <br>
 <br>
 I received a B.S. in computer science from <a href="https://ccec.nefu.edu.cn/" style="font-weight: bold;">Northeast Forest University</a>, where I joined an ACM team called "The Science of Brute Force"(吾有一术，名曰暴力) with <a href="https://www.yilantingfeng.site/" style="font-weight: bold;">Shichao Jiang</a> and Zhe Zhang, and participated in a series of very interesting algorithmic competitions for two years.
 <br>
 <br>
-My research interest mainly lies on <span style="font-weight: bold;">Federated learning</span>, <span style="font-weight: bold;">Distributed optimization under communication contraints</span>.</p> 
+My research interest mainly lies on <span style="font-weight: bold;">Federated learning</span>, <span style="font-weight: bold;">Distributed optimization under communication contraints</span>.
+<br>
+I am a lover of life and love experiencing the good things with my friends! Feel free to share interesting things about academia and life with me!
+<br>
+</p> 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
