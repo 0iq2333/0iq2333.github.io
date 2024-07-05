@@ -7,8 +7,8 @@ subtitle: <a href='mailto:zychang@seu.edu.cn' target="_blank">zychang@seu.edu.cn
 
 profile:
   align: right
-  image: prof_pic.png
-  image_circular: false # crops the image to make it circular
+  image: about_pic.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
 
 news: true # includes a list of news items
