@@ -11,7 +11,7 @@
   contents:
     - title: Master
       institution: Southeast University, Nanjing, China
-      year: 2023-2026 (Expected)
+      year: 2023-2026
       description:
         - "<b>Major:</b> Computer Science."
     - title: Bachelor
@@ -51,10 +51,10 @@
         - Communications Compression.
     - title: Distributed optimization under communication contraints.
       items:
+        - Seconder Order Optimization.
         - Communications Compression.
         - Heterogeneous Optimization.
         - Decentralized Stochastic Optimization.
-        - Multi-agent reinforcement learning.
 
 - title: Other Interests
   type: list

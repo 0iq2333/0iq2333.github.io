@@ -5,7 +5,7 @@ permalink: /miscellaneous/
 description: A collection of photos of life and some beautiful landscapes.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [travel, campus]
 horizontal: false
 ---
 
