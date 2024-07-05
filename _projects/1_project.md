@@ -51,10 +51,10 @@ Harbin is beautiful in winter. The pictures are of Northeast Forestry University
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/miscellaneous/harbin/12.jpg" title="The beautiful Saint Sophia Cathedral" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/miscellaneous/harbin/11.jpg" title="Central Street on New Year's Day" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
