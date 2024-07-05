@@ -2,96 +2,61 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Zhongyi Chang (常中一)
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 15th February 2000
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master
+      institution: Southeast University, Nanjing, China
+      year: 2023-2026 (Expected)
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "<b>Major:</b> Computer Science."
+    - title: Bachelor
+      institution: Northeast Forest Univerisity, Harbin, China
+      year: 2019-2023
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - "<b>Major:</b> Computer Science."
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - year: 2023
+    - items:
+        - Outstanding Graduate of Northeast Forest Univerisity
+    - year: 2022
+    - items:
+        - Group Programming Ladder Tournament 2022 <b>(National Second prize, Regional First prize)</b>
+    - year: 2021
+    - items:
+        - CodeVita Season 9 <b>(China Top 20)</b>
+        - Group Programming Ladder Tournament 2021 <b>(National Third prize, Individual Second prize)</b>
+        - China Undergraduate Mathematical Contest in Modeling 2020 <b>(Regional First prize)</b>
+        - The 15th Northeast Collegiate Programming Contest <b>(Regional Second prize)</b>
+        - The 16th Heilongjiang Provincial Collegiate Programming Contest <b>(Regional Second prize)</b>
+    - year: 2020
+    - items:
+        - The 11th Blue Bridge Cup National Software and Information Technology Professionals Competition in C/C++ programming Group A <b>(National Third prize, Regional First prize)</b>
+        - Group Programming Ladder Tournament 2020 <b>(National Third prize, Individual third prize)</b>
+        - The 14th Northeast Collegiate Programming Contest <b>(Regional Second prize)</b>
+        - The 15th Heilongjiang Provincial Collegiate Programming Contest <b>(Regional Second prize)</b>
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Federated learning.
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Communications Compression.
+    - title: Distributed optimization under communication contraints.
       items:
-        - Description 1.
-        - Description 2.
+        - Communications Compression.
+        - Heterogeneous Optimization.
+        - Decentralized Stochastic Optimization.
+        - Multi-agent reinforcement learning.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Swimming, Catch a movie, City walk, Traveling, etc.

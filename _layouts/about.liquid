@@ -76,5 +76,19 @@ layout: default
     {% if site.newsletter.enabled and site.footer_fixed %}
       {% include scripts/newsletter.liquid center=true %}
     {% endif %}
+
+    <!-- visitors -->
+    {% if page.visitors -%}
+      <body><a href="https://clustrmaps.com/site/1byh3" title="Visit tracker for 0iq2333.github.io"><img src="//www.clustrmaps.com/map_v2.png?d=2TMkLhmFGZEQimUfM-O-oaNuLsLhdS4MJLlsT5rHlo4" /></a></body>
+    {%- endif %}
+
+    <!-- Social -->
+    {% if page.social %}
+      <div class="social">
+        <div class="contact-icons">{% include social.liquid %}</div>
+
+        <div class="contact-note">{{ site.contact_note }}</div>
+      </div>
+    {% endif %}
   </article>
 </div>
