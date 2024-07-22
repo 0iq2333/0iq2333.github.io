@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The beautiful Harbin
+title: Harbin
 description: My Second Homeland
 img: assets/img/miscellaneous/harbin/1.jpg
 importance: 1

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hainan Trip
+title: Hainan
 description: Haikou, Wenchang and Sanya
 img: assets/img/miscellaneous/hainan/1.jpg
 importance: 3

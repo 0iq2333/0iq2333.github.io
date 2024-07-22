@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: <a href='mailto:zychang@seu.edu.cn' target="_blank">zychang@seu.edu.cn</a> <br> <i>Enjoy yourself. Be happy!</i>
+subtitle: <a href='mailto:zychang@seu.edu.cn' target="_blank">zychang@seu.edu.cn</a> <br> <i>Only when we love our lives more can we get better at studying!</i>
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
   more_info: >
 
 news: true # includes a list of news items
-# latest_posts: false # includes a list of the newest posts
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 visitors: true
 social: false # includes social icons at the bottom of the page
