@@ -51,10 +51,11 @@
         - Communications Compression.
     - title: Distributed optimization under communication contraints.
       items:
-        - Seconder Order Optimization.
+        - Second Order Optimization.
         - Communications Compression.
         - Heterogeneous Optimization.
         - Decentralized Stochastic Optimization.
+    - title: Online Optimization.
 
 - title: Other Interests
   type: list

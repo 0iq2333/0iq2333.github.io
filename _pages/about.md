@@ -23,7 +23,7 @@ social: false # includes social icons at the bottom of the page
 I received a B.S. in computer science from <a href="https://ccec.nefu.edu.cn/" style="font-weight: bold;">Northeast Forest University</a>, where I joined an ACM team called "The Science of Brute Force"(吾有一术，名曰暴力) with <a href="https://www.yilantingfeng.site/" style="font-weight: bold;">Shichao Jiang</a> and Zhe Zhang, and participated in a series of very interesting algorithmic competitions for two years.
 <br>
 <br>
-My research interest mainly lies on <span style="font-weight: bold;">Federated learning</span>, <span style="font-weight: bold;">Distributed optimization under communication contraints</span>.
+My research interest mainly lies on <span style="font-weight: bold;">Online optimization</span>, <span style="font-weight: bold;">Distributed optimization under communication contraints</span> and <span style="font-weight: bold;">Federated learning</span>.
 <br>
 I am a lover of life and love experiencing the good things with my friends! Feel free to share interesting things about academia and life with me!
 <br>
