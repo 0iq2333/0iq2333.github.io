@@ -1,33 +1,37 @@
 ---
 ---
+@string{aps = {American Physical Society,}}
 
-@inproceedings{FedMix,
-  abbr={ICNC},
-  author = {Zhiyao Pan and
+@InProceedings{ICNC-Pan-Chang-Li2024,
+  author  = {Zhiyao Pan and
             Zhongyi Chang and
             Ting Li and
             Shaofu Yang},
-  title = {Distributed Optimization via Mixing ADAM and Quasi-Newton Methods},
-  booktitle = {ICNC},
-  year = {2024},
+  booktitle    = {Proc. of 3th International Conference on Neuromorphic Computing},
+  title        = {Decentralized Federated Learning with Local Auto-switchable Optimizers},
+  year         = {2024},
+  organization = {IEEE},
+  abbr         = {ICNC},
   abstract={The heterogeneous computational capacities of devices always negatively impact the performance of distributed optimization algorithms. In this paper, we propose a novel distributed optimization algorithm based on a mixture of different local optimizers, termed as FedMix, which has the potential to leverage the heterogeneity to enhance the performance. Specifically, FedMix is designed in the parameter-server framework, and each client can be equipped with either an Adam optimizer or a quasi-Newton optimizer for local updates based on its computational capability, which leads to a mixture of Adam and Quasi-Newton in our algorithm. As different local optimizers demand different computational capabilities, our algorithm FedMix can achieve better alignment between algorithms and computing resources, facilitating improved performance especially in the heterogeneous computational environment. Sufficient experiments are presented to substantiate the superior performance of our algorithm by comparing with existing algorithms.},
-  bibtex_show={true},
+  bibtex_show  = {true},
   selected={true},
 }
 
-
-@inproceedings{FedMix,
-  abbr={ICICIP},
-  author = {Ting Li Pan and
+@InProceedings{ICICIP-Li-Chang-Pan2024,
+  author       = {Ting Li Pan and
             Zhongyi Chang and
             Zhiyao Pan and
             Shaofu Yang and
             Wenying Xu and
             Zhongying Chen},
-  title = {Decentralized Federated Learning with Local Auto-switchable Optimizers},
-  booktitle = {ICICIP},
-  year = {2024},
+  booktitle    = {Proc. of 13th International Conference on Intelligent Control and Information Processing},
+  title        = {Decentralized Federated Learning with Local Auto-switchable Optimizers},
+  year         = {2024},
+  organization = {IEEE},
+  abbr         = {ICICIP},
   abstract={In this paper, we propose a novel decentralized optimization algorithm DLAGD for non-convex problems, in which each node is equipped with an auto-switchable local optimizer. The local optimizer is a combination of gradient descent with an adaptive stepsize scheme. In particular, the stepsize scheme allows the optimizer switch between the SGD with momentum and an Adam-like algorithm, then is more flexible than existing distributed algorithms using only one type of local optimizer. Consequently, DLAGD can better adapt to the structure of the objective function and has the potential to accelerate the convergence rate. For non-convex problems, we theoretically prove that DLAGD can converge to a stationary point. Finally, numerical experiments are presented to show the superior performance of DLAGD.},
-  bibtex_show={true},
+  bibtex_show  = {true},
   selected={true},
 }
+  % pages        = {352--359},
+  % pdf          = {Index_Tracking_Based_on_Dynamic_Time_Warping_and_Constrained_k-medoids_Clustering.pdf},
