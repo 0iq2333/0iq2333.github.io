@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of photos of life and some beautiful landscapes.
+description: publications by categories in reversed chronological order.
 nav: false
 nav_order: 2
 display_categories: [work, fun]
